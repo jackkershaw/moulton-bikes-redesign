@@ -9,7 +9,10 @@ used [this demo project](https://github.com/vercel/commerce) to get started
 Used [this integration guide](https://vercel.com/docs/integrations/ecommerce/shopify) to connect nextjs and headless shopify
 
 Made a collection of bike shops and bike related websites on Are.na to use as inspiration
+
 Made a figma board of this inspiration, looking at what works on other bike company sites and started working out the look of the redesigned site.
+
+Edited template based on this figma design.
 
 ## Running locally
 
